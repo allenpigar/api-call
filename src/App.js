@@ -3,7 +3,10 @@ import './App.css';
 
 function App() {
   return (
-    <div>Serve for api call</div>
+    <>
+      <div>Serve for api call</div>
+    </>
+    
   );
 }
 
